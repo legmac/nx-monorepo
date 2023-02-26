@@ -12,3 +12,8 @@ nx g module app/user  --project=account
 nx g module app/auth  --project=account
 nx g controller app/auth  --project=account
 nx g service app/user  --project=account
+
+
+npm i passport passport-facebook@nestjs/passport @nestjs/config
+npm i passport @nestjs/passport @nestjs/config
+ npm i class-transformer class-validator
