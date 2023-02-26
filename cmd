@@ -7,4 +7,4 @@ nx run account:build:production
 
 
 nx g @nrwl/nest:lib interfaces
-nx g module apps/user  --project=account
+nx g module app/user  --project=account
