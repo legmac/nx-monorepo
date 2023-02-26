@@ -17,3 +17,8 @@ nx g service app/user  --project=account
 npm i passport passport-facebook@nestjs/passport @nestjs/config
 npm i passport @nestjs/passport @nestjs/config
  npm i class-transformer class-validator
+
+
+5. Монорепозитории
+
+ https://github.com/AlariCode/6-microservices-demo-1
